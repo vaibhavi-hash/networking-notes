@@ -16,7 +16,7 @@ To create a basic LAN using 2 PCs and 1 Switch.
 ## Output
 
 
-(day 2 lab.png)
+![Lab](day 2 lab.png)
 
 (Add screenshots below)
 
