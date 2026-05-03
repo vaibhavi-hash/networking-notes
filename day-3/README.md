@@ -10,19 +10,19 @@
 (Add your handwritten notes images below)
 
 
+![Notes](day3-notes1.jpeg)
+![Notes](day3-notes2.jpeg)
+![Notes](day3-notes3.jpeg)
+![Notes](day3-notes4.jpeg)
+![Notes](day3-notes5.jpeg)
+![Notes](day3-notes6.jpeg)
+![Notes](day3-notes7.jpeg)
+![Notes](day3-notes8.jpeg)
+![Notes](day3-notes9.jpeg)
+![Notes](day3-notes10.jpeg)
+![Notes](day3-notes11.jpeg)
+![Notes](day3-notes12.jpeg)
 
-day 3 notes (1).jpeg
-day 3 notes (10).jpeg
-day 3 notes (11).jpeg
-day 3 notes (12).jpeg
-day 3 notes (2).jpeg
-day 3 notes (3).jpeg
-day 3 notes (4).jpeg
-day 3 notes (5).jpeg
-day 3 notes (6).jpeg
-day 3 notes (7).jpeg
-day 3 notes (8).jpeg
-day 3 notes (9).jpeg
 
 ## Lab: Ping Between PCs + Simulation Mode
 
@@ -41,7 +41,7 @@ To test connectivity and understand packet flow.
 ### Output
 
 (Add lab screenshots below)
-![Lab](day3-lab.png)
+![Lab](day3 lab.png)
 
 ### What I Learned
 
