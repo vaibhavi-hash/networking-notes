@@ -9,6 +9,21 @@
 
 (Add your handwritten notes images below)
 
+
+
+day 3 notes (1).jpeg
+day 3 notes (10).jpeg
+day 3 notes (11).jpeg
+day 3 notes (12).jpeg
+day 3 notes (2).jpeg
+day 3 notes (3).jpeg
+day 3 notes (4).jpeg
+day 3 notes (5).jpeg
+day 3 notes (6).jpeg
+day 3 notes (7).jpeg
+day 3 notes (8).jpeg
+day 3 notes (9).jpeg
+
 ## Lab: Ping Between PCs + Simulation Mode
 
 ### Objective
@@ -26,6 +41,7 @@ To test connectivity and understand packet flow.
 ### Output
 
 (Add lab screenshots below)
+![Lab](day3-lab.png)
 
 ### What I Learned
 
