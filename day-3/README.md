@@ -10,7 +10,7 @@
 (Add your handwritten notes images below)
 
 
-![Notes](day3 notes1.jpeg)
+![Notes](day3-notes(1).jpeg)
 ![Notes](day3 notes2.jpeg)
 ![Notes](day3 notes3.jpeg)
 ![Notes](day3 notes4.jpeg)
