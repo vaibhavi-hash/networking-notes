@@ -10,18 +10,20 @@
 (Add your handwritten notes images below)
 
 
-![Notes](day3-notes(1).jpeg)
-![Notes](day3 notes2.jpeg)
-![Notes](day3 notes3.jpeg)
-![Notes](day3 notes4.jpeg)
-![Notes](day3 notes5.jpeg)
-![Notes](day3 notes6.jpeg)
-![Notes](day3 notes7.jpeg)
-![Notes](day3 notes8.jpeg)
-![Notes](day3 notes9.jpeg)
-![Notes](day3 notes10.jpeg)
-![Notes](day3 notes11.jpeg)
-![Notes](day3n notes12.jpeg)
+#### Notes
+(Add your handwritten notes images below)
+![Notes](day3_notes1.jpg)
+![Notes](day3_notes2.jpg)
+![Notes](day3_notes3.jpg)
+![Notes](day3_notes4.jpg)
+![Notes](day3_notes5.jpg)
+![Notes](day3_notes6.jpg)
+![Notes](day3_notes7.jpg)
+![Notes](day3_notes8.jpg)
+![Notes](day3_notes9.jpg)
+![Notes](day3_notes10.jpg)
+![Notes](day3_notes11.jpg)
+![Notes](day3n_notes12.jpeg))
 
 
 ## Lab: Ping Between PCs + Simulation Mode
